@@ -1,3 +1,8 @@
+'''
+Adam Forestier
+April 29, 2023
+'''
+
 import numpy as np
 
 '''
